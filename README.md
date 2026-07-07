@@ -7,4 +7,4 @@ Durante o desenvolvimento deste projeto, tive a oportunidade de colocar em prát
 
 Ferramentas utilizadas: HTML e CSS.
 
-Link para o site: https://beatrizferreira9.github.io/projeto/
+Link para o site: https://beatrizferreira9.github.io/poesia_milton_duarte_site/
